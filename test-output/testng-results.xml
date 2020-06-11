@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="61189" started-at="2020-06-11T06:18:01Z" finished-at="2020-06-11T06:19:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="61189" started-at="2020-06-11T06:18:01Z" finished-at="2020-06-11T06:19:02Z">
+      <class name="ecom.testcases.Flow">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:ecom.testcases.Flow@4501b7af]" name="setUp" is-config="true" duration-ms="19920" started-at="2020-06-11T11:48:01Z" finished-at="2020-06-11T11:48:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="SignUp()[pri:0, instance:ecom.testcases.Flow@4501b7af]" name="SignUp" duration-ms="10957" started-at="2020-06-11T11:48:21Z" finished-at="2020-06-11T11:48:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignUp -->
+        <test-method status="PASS" signature="signInPage()[pri:1, instance:ecom.testcases.Flow@4501b7af]" name="signInPage" duration-ms="3522" started-at="2020-06-11T11:48:32Z" finished-at="2020-06-11T11:48:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInPage -->
+        <test-method status="PASS" signature="WomenDress()[pri:2, instance:ecom.testcases.Flow@4501b7af]" name="WomenDress" duration-ms="25932" started-at="2020-06-11T11:48:35Z" finished-at="2020-06-11T11:49:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WomenDress -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:ecom.testcases.Flow@4501b7af]" name="tearDown" is-config="true" duration-ms="813" started-at="2020-06-11T11:49:01Z" finished-at="2020-06-11T11:49:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- ecom.testcases.Flow -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
